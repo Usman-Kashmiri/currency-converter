@@ -23,7 +23,7 @@ var selectCurrencyList = document.querySelectorAll(".currencyList"),
 // Global Constant Scope
 
 // API URL
-const Api_Url = 'http://www.floatrates.com/daily/gbp.json';
+const Api_Url = 'https://www.floatrates.com/daily/gbp.json';
 
 // Setting Default display for containers
 calculationContainer.style.display = "flex";
